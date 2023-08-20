@@ -12,3 +12,6 @@ This is an experimental qwerty layout nice for programming and touch typing, usi
 
 ### Alt Gr Layer
 ![alt gr layer](doc/AltGrLayer.jpg)
+
+## Rationale
+The Layout takes ideas from 
